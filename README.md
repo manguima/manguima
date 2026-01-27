@@ -1,182 +1,262 @@
 <div align="center">
-  
-<!-- Você pode criar seu header personalizado em: https://leviarista.github.io/github-profile-header-generator/ -->
-<!-- Após criar, faça upload para seu repositório e substitua a URL abaixo -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Matheus%20Guimarães&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20TypeScript%20Specialist&descAlignY=51&descAlign=50" width="100%" />
+
+<!-- HEADER DARK -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=250&section=header&text=MATHEUS%20GUIMARÃES&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descAlign=50&descSize=25" width="100%" />
 
 </div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Node.js+Expert;Open+Source+Enthusiast+%E2%9D%A4%EF%B8%8F;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=700&height=100&lines=Building+Scalable+Web+Applications;TypeScript+%7C+React+%7C+Node.js;Microservices+Architecture;Clean+Code+%26+Best+Practices" alt="Typing SVG" />
 
 </div>
 
----
+<!-- ABOUT SECTION -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 👨‍💻 About Me
+<br/>
 
-```typescript
+## 💻 SOBRE MIM
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```javascript
 const matheus = {
-    location: "Brasília, DF - Brazil 🇧🇷",
-    role: "Full-Stack Developer",
-    focus: ["Scalable Architecture", "Microservices", "Modern Web"],
-    currentlyWorking: "Full-Stack Projects with React & NestJS",
-    techStack: {
-        frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
+    localização: "Brasília, DF - Brasil 🇧🇷",
+    cargo: "Desenvolvedor Full-Stack",
+    empresa: "Tech Company",
+    
+    código: {
+        frontend: ["React", "Next.js", "TypeScript"],
         backend: ["Node.js", "NestJS", "Express"],
         databases: ["PostgreSQL", "MongoDB"],
-        tools: ["Docker", "Git", "VS Code"]
+        devOps: ["Docker", "Git"]
     },
-    interests: ["Clean Code", "System Design", "Performance Optimization"],
-    contact: "matheus.gui.pgr@gmail.com"
+    
+    foco: [
+        "Arquitetura Escalável",
+        "Microserviços",
+        "Clean Code",
+        "Performance"
+    ],
+    
+    contato: "matheus.gui.pgr@gmail.com"
 };
 ```
 
----
+<br clear="right"/>
 
-## 🛠️ Tech Stack
+<!-- SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+## 🛠️ TECNOLOGIAS
 
 <div align="center">
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass&theme=dark" />
+</p>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,prisma,graphql&theme=dark" />
+</p>
 
-### Database & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma,vercel,linux&theme=dark" />
+</p>
 
 </div>
 
----
+<!-- SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 GitHub Analytics
+<br/>
+
+## 📊 ESTATÍSTICAS DO GITHUB
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manguima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manguima&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manguima&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4a9eff&icon_color=4a9eff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manguima&theme=dark&hide_border=true&background=0d1117&ring=4a9eff&fire=4a9eff&currStreakLabel=4a9eff" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manguima&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manguima&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4a9eff&text_color=c9d1d9&langs_count=10" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manguima&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" width="100%"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🎯 Project | 📝 Description | 🔧 Tech Stack | ⭐ Stars |
-|:-----------|:---------------|:--------------|:---------|
-| [**midia-repo**](https://github.com/manguima/midia-repo) | Advanced media management system | TypeScript, React | ![Stars](https://img.shields.io/github/stars/manguima/midia-repo?style=social) |
-| [**robo-consulta**](https://github.com/manguima/robo-consulta) | Automation bot for legal consultations | TypeScript, Python | ![Stars](https://img.shields.io/github/stars/manguima/robo-consulta?style=social) |
-| [**clinica-dash**](https://github.com/manguima/clinica-dash) | Clinical management dashboard | TypeScript, Next.js | ![Stars](https://img.shields.io/github/stars/manguima/clinica-dash?style=social) |
-| [**IA_consulta**](https://github.com/manguima/IA_consulta) | AI-powered consultation system | TypeScript, NestJS | ![Stars](https://img.shields.io/github/stars/manguima/IA_consulta?style=social) |
-| [**wedding-web**](https://github.com/manguima/wedding-web) | Wedding management platform | TypeScript, React | ![Stars](https://img.shields.io/github/stars/manguima/wedding-web?style=social) |
-| [**radio-frontend**](https://github.com/manguima/radio-frontend) | Radio streaming platform | TypeScript, Next.js | ![Stars](https://img.shields.io/github/stars/manguima/radio-frontend?style=social) |
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manguima&bg_color=0d1117&color=4a9eff&line=4a9eff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
-
----
-
-## 💼 What I Do
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Full-Stack
-    Development))
-    Frontend
-      React & Next.js
-      Responsive Design
-      Modern UI/UX
-      Performance Optimization
-    Backend
-      Node.js & NestJS
-      RESTful APIs
-      Microservices
-      Database Design
-    DevOps
-      Docker
-      CI/CD
-      Cloud Deployment
-      Monitoring
-    Best Practices
-      Clean Code
-      TDD
-      Agile
-      Documentation
-```
+<img src="https://github-profile-trophy.vercel.app/?username=manguima&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
 
 </div>
 
-- ⚡ **Full-Stack Development** – Building complete web applications from conception to deployment
-- 🏗️ **Scalable Architecture** – Designing robust systems that grow seamlessly with demand
-- 🔧 **Microservices** – Implementing distributed architectures for better scalability and maintainability
-- 🎨 **Responsive Design** – Creating beautiful, intuitive, and accessible user interfaces
-- 📱 **Modern Web Apps** – Leveraging cutting-edge technologies and industry best practices
-- 🔐 **Security First** – Implementing secure authentication, authorization, and data protection
+<!-- SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+<br/>
 
-## 📈 Activity & Contributions
+## 🚀 PROJETOS EM DESTAQUE
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=manguima&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://github.com/manguima/midia-repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manguima&repo=midia-repo&theme=dark&hide_border=true&bg_color=0d1117&title_color=4a9eff&icon_color=4a9eff&text_color=c9d1d9" />
+</a>
 
-### 🏆 2025 Achievements
-![Contributions](https://img.shields.io/badge/Contributions-1,237+-success?style=for-the-badge)
-![Repositories](https://img.shields.io/badge/Repositories-67-blue?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react)
+<a href="https://github.com/manguima/robo-consulta">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manguima&repo=robo-consulta&theme=dark&hide_border=true&bg_color=0d1117&title_color=4a9eff&icon_color=4a9eff&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/manguima/clinica-dash">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manguima&repo=clinica-dash&theme=dark&hide_border=true&bg_color=0d1117&title_color=4a9eff&icon_color=4a9eff&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/manguima/IA_consulta">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manguima&repo=IA_consulta&theme=dark&hide_border=true&bg_color=0d1117&title_color=4a9eff&icon_color=4a9eff&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/manguima/wedding-web">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manguima&repo=wedding-web&theme=dark&hide_border=true&bg_color=0d1117&title_color=4a9eff&icon_color=4a9eff&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/manguima/radio-frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manguima&repo=radio-frontend&theme=dark&hide_border=true&bg_color=0d1117&title_color=4a9eff&icon_color=4a9eff&text_color=c9d1d9" />
+</a>
 
 </div>
 
----
+<!-- SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🤝 Let's Connect
+<br/>
+
+## 📈 CONTRIBUIÇÕES 2025
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-guima/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manguima)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.gui.pgr@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+<img src="https://github-contributor-stats.vercel.app/api?username=manguima&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=4a9eff&text_color=c9d1d9" width="100%" />
 
 </div>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manguima/manguima/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manguima/manguima/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manguima/manguima/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+## 💼 O QUE EU FAÇO
 
 <div align="center">
 
-### 💡 Open to Collaboration
+<table>
+<tr>
+<td width="50%">
 
-I'm always interested in working on innovative projects, contributing to open source, and connecting with fellow developers. Feel free to reach out!
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-### ⭐ Show Some Love
+### Frontend Development
+Criação de interfaces modernas, responsivas e performáticas usando React, Next.js e TypeScript
 
-If you find my work interesting or helpful, please consider giving a star to my repositories!
+</td>
+<td width="50%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 
-**Made with ❤️ and ☕ by Matheus Guimarães**
+### Backend Development
+Desenvolvimento de APIs RESTful robustas e escaláveis com Node.js e NestJS
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+### Database Design
+Modelagem e otimização de bancos de dados SQL e NoSQL para alta performance
+
+</td>
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+
+### DevOps & CI/CD
+Containerização com Docker e deploy automatizado em ambientes cloud
+
+</td>
+</tr>
+</table>
 
 </div>
+
+<!-- SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+## 🌐 CONECTE-SE COMIGO
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/matheus-guima/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+</a>
+
+<a href="https://github.com/manguima">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
+</a>
+
+<a href="mailto:matheus.gui.pgr@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=manguima&color=4a9eff&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" />
+
+</div>
+
+<!-- SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+### ⭐ Se você gostou dos meus projetos, considere dar uma estrela!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+**Feito com ❤️ e ☕ por Matheus Guimarães**
+
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=120&section=footer" width="100%" />
