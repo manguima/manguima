@@ -1,133 +1,134 @@
-<div align="center">
-
-# 👋 Olá! Sou Matheus Guimarães
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;NestJS+%7C+TypeScript;Arquitetura+Escalável;Micro-frontends)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🎯 Sobre Mim
-
-Desenvolvedor Full-Stack apaixonado por criar soluções escaláveis e inovadoras. Com experiência em **React**, **Next.js**, **Node.js** e **NestJS**, trabalho com arquitetura de microsserviços e micro-frontends. Sou um entusiasta de boas práticas, design patterns e desenvolvimento limpo.
-
-📍 **Localização:** Brasília, DF - Brasil  
-💼 **Atualmente:** Desenvolvendo projetos full-stack  
-🎓 **Aprendendo:** Novas tecnologias e arquiteturas escaláveis  
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### **Databases & Tools**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manguima&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manguima&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🚀 Principais Projetos
-
-<div align="center">
-
-| Projeto | Descrição | Tech |
-|---------|-----------|------|
-| **midia-repo** | Sistema de gerenciamento de mídia | TypeScript |
-| **IA_consulta** | Consultas com inteligência artificial | TypeScript |
-| **robo-consulta** | Bot de automação de consultas | TypeScript, Python |
-| **clinica-dash** | Dashboard para gerenciamento clínico | TypeScript |
-| **wedding-web** | Plataforma de casamento | TypeScript, React |
-| **radio-frontend** | Frontend para plataforma de rádio | TypeScript |
-
-</div>
-
----
-
-## 💡 O Que Faço
-
-<div align="center">
+# Hi! I'm Matheus Guimarães 👋
 
 ```
-┌─────────────────────────────────────────┐
-│  ⚡ Desenvolvimento Full-Stack          │
-│  🎨 Design de Interface Responsivo      │
-│  🏗️ Arquitetura Escalável              │
-│  🔧 Micro-frontends e Microserviços    │
-│  📱 Aplicações Web Modernas             │
-│  🤖 Integração IA & Automação           │
-└─────────────────────────────────────────┘
+Full-Stack Developer | React | Next.js | Node.js | NestJS | TypeScript
 ```
-
-</div>
 
 ---
 
-## 🌟 Destaques
+## 🎯 About Me
 
-- ✅ **1.237 contribuições** em 2025
-- - ✅ **66 repositórios** públicos e privados
-  - - ✅ Experiência em **arquitetura escalável**
-    - - ✅ Especialista em **micro-frontends**
-      - - ✅ Desenvolvedor **TypeScript** avançado
-        - - ✅ Projetos com **React**, **Next.js** e **NestJS**
-         
-          - ---
+I'm a passionate Full-Stack developer focused on building scalable and high-performance applications. With experience in modern web technologies, I work with **React**, **Next.js**, **Node.js**, and **NestJS** to create robust solutions.
 
-          ## 📬 Conecte-se Comigo
+- 📍 Based in Brasília, DF - Brazil
+- - 💻 Currently working on Full-Stack projects
+  - - 🚀 Interested in scalable architecture and microservices
+    - - 📧 Reach me: **matheus.gui.pgr@gmail.com**
+     
+      - ---
 
-          <div align="center">
+      ## 🛠️ Tech Stack
 
-          [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-guima/)
-          [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manguima)
-          [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.gui.pgr@gmail.com)
-
-          </div>
-
-          ---
-
-          ## 📈 Roadmap 2026
-
-          - 🎯 Aprofundar em **Arquitetura de Microsserviços**
-          - - 🎯 Contribuir mais em **Open Source**
-            - - 🎯 Dominar **DevOps** e **Infrastructure as Code**
-              - - 🎯 Expandir portfolio com **Projetos Pessoais**
-               
-                - ---
-
-                <div align="center">
-
-                ### ⭐ Se você gostou, considere dar uma estrela nos meus repositórios!
-
-                **Feito com ❤️ por Matheus Guimarães**
-
-                </div>
+      <table>
+          <tr>
+                <td align="center" width="120">
+                        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+                        <br><strong>React</strong>strong>
+                </td>td>
+                <td align="center" width="120">
+                        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+                        <br><strong>Next.js</strong>strong>
+                </td>td>
+                <td align="center" width="120">
+                        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+                        <br><strong>TypeScript</strong>strong>
+                </td>td>
+                <td align="center" width="120">
+                        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+                        <br><strong>Node.js</strong>strong>
+                </td>td>
+                <td align="center" width="120">
+                        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+                        <br><strong>Express</strong>strong>
+                </td>td>
+          </tr>tr>
+          <tr>
+                <td align="center" width="120">
+                        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+                        <br><strong>PostgreSQL</strong>strong>
+                </td>td>
+                <td align="center" width="120">
+                        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+                        <br><strong>MongoDB</strong>strong>
+                </td>td>
+                <td align="center" width="120">
+                        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+                        <br><strong>Docker</strong>strong>
+                </td>td>
+                <td align="center" width="120">
+                        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+                        <br><strong>Git</strong>strong>
+                </td>td>
+                <td align="center" width="120">
+                        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+                        <br><strong>Tailwind</strong>strong>
+                </td>td>
+          </tr>tr>
+      </table>table>
+   
+      ---
+   
+      ## 📊 GitHub Stats
+   
+      <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=manguima&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      </div>div>
+   
+      <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manguima&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      </div>div>
+   
+      ---
+   
+      ## 💼 Featured Projects
+   
+      | Project | Description | Stack |
+      |---------|-------------|-------|
+      | **midia-repo** | Media management system | TypeScript, React |
+      | **robo-consulta** | Automation bot for legal consultations | TypeScript, Python |
+      | **clinica-dash** | Clinical management dashboard | TypeScript, Next.js |
+      | **IA_consulta** | AI-powered consultations | TypeScript, NestJS |
+      | **wedding-web** | Wedding management platform | TypeScript, React |
+      | **radio-frontend** | Radio platform frontend | TypeScript, Next.js |
+   
+      ---
+   
+      ## 🎓 What I Do
+   
+      - ⚡ **Full-Stack Development** - Building complete web applications
+      - - 🏗️ **Scalable Architecture** - Designing robust and efficient systems
+        - - 🔧 **Microservices** - Implementing distributed architectures
+          - - 🎨 **Responsive Design** - Creating beautiful user interfaces
+            - - 📱 **Modern Web Apps** - Using latest technologies and best practices
+             
+              - ---
+       
+              ## 📈 Quick Stats
+       
+              - **1,237** Contributions in 2025
+              - - **67** Repositories (public & private)
+                - - **Advanced** TypeScript Skills
+                  - - **Experienced** with React & Next.js Ecosystem
+                   
+                    - ---
+       
+                    ## 🔗 Let's Connect
+       
+                    <div align="center">
+       
+                        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-guima/)
+                      [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manguima)
+                      [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.gui.pgr@gmail.com)
+       
+                      </div>
+       
+                      ---
+       
+                    <div align="center">
+       
+                        <i>Open to opportunities | Let's build something amazing together! 🚀</i>
+       
+                      </div>
+          </tr>
+          </tr>
+      </table>
