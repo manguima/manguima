@@ -1,12 +1,10 @@
 name: Generate Snake
-
 on:
   schedule:
       - cron: '0 */12 * * *'
         workflow_dispatch:
           push:
               branches: [main]
-
               jobs:
                 snake:
                     runs-on: ubuntu-latest
