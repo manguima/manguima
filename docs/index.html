@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matheus Guimarães | Full-Stack Developer</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- Background Effects -->
+    <div class="bg-gradient"></div>
+    <div class="bg-grid"></div>
+
+    <!-- Sidebar Navigation -->
+    <nav class="sidebar">
+        <div class="sidebar-menu">
+            <a href="#home" class="nav-item active" data-section="home" title="Home">
+                <i class="fas fa-home"></i>
+            </a>
+            <a href="#about" class="nav-item" data-section="about" title="Sobre">
+                <i class="fas fa-user"></i>
+            </a>
+            <a href="#skills" class="nav-item" data-section="skills" title="Skills">
+                <i class="fas fa-bolt"></i>
+            </a>
+            <a href="#stats" class="nav-item" data-section="stats" title="Stats">
+                <i class="fas fa-chart-bar"></i>
+            </a>
+            <a href="#contact" class="nav-item" data-section="contact" title="Contato">
+                <i class="fas fa-envelope"></i>
+            </a>
+        </div>
+        <div class="sidebar-indicator"></div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+
+        <!-- Home Section -->
+        <section id="home" class="section active">
+            <div class="section-content">
+                <div class="hero">
+                    <div class="hero-icon">
+                        <div class="hero-icon-glow"></div>
+                        <div class="hero-icon-inner">
+                            <i class="fas fa-code"></i>
+                        </div>
+                    </div>
+
+                    <h1 class="hero-title">
+                        Hi, I'm <span class="highlight">Matheus</span>
+                    </h1>
+
+                    <p class="hero-subtitle">
+                        I'm a <span class="typing"></span>
+                    </p>
+
+                    <p class="hero-description">
+                        I create beautiful, responsive web experiences using modern technologies.<br>
+                        Passionate about clean code and user-centered design.
+                    </p>
+
+                    <div class="hero-buttons">
+                        <a href="#skills" class="btn btn-primary">
+                            <i class="fas fa-briefcase"></i> View My Work
+                        </a>
+                        <a href="#contact" class="btn btn-secondary">
+                            <i class="fas fa-paper-plane"></i> Contact Me
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="section">
+            <div class="section-content">
+                <div class="glass-card about-card">
+                    <div class="card-header">
+                        <i class="fas fa-user"></i>
+                        <h2>About Me</h2>
+                    </div>
+
+                    <div class="about-grid">
+                        <div class="about-text">
+                            <div class="code-block">
+                                <div class="code-header">
+                                    <span class="dot red"></span>
+                                    <span class="dot yellow"></span>
+                                    <span class="dot green"></span>
+                                    <span class="filename">developer.ts</span>
+                                </div>
+                                <pre><code><span class="keyword">const</span> <span class="variable">matheus</span> = {
+  <span class="property">location</span>: <span class="string">"Brasília, DF - Brasil 🇧🇷"</span>,
+  <span class="property">role</span>: <span class="string">"Full-Stack Developer"</span>,
+
+  <span class="property">code</span>: {
+    <span class="property">frontend</span>: [<span class="string">"React"</span>, <span class="string">"Next.js"</span>, <span class="string">"TypeScript"</span>],
+    <span class="property">backend</span>: [<span class="string">"Node.js"</span>, <span class="string">"NestJS"</span>, <span class="string">"Express"</span>],
+    <span class="property">database</span>: [<span class="string">"PostgreSQL"</span>, <span class="string">"MongoDB"</span>, <span class="string">"Redis"</span>]
+  },
+
+  <span class="property">currentFocus</span>: <span class="string">"Building scalable microservices"</span>,
+  <span class="property">funFact</span>: <span class="string">"I code in Dark Mode only ⚫"</span>
+};</code></pre>
+                            </div>
+                        </div>
+
+                        <div class="about-image">
+                            <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Skills Section -->
+        <section id="skills" class="section">
+            <div class="section-content">
+                <div class="skills-grid">
+                    <!-- Skills Card -->
+                    <div class="glass-card skills-card">
+                        <div class="card-header">
+                            <i class="fas fa-bolt"></i>
+                            <h2>My Skills</h2>
+                        </div>
+
+                        <p class="skills-description">
+                            I'm a passionate developer with 3+ years of experience creating modern,
+                            responsive web applications. I specialize in frontend development using
+                            cutting-edge technologies to deliver exceptional user experiences.
+                        </p>
+
+                        <div class="skills-bars">
+                            <div class="skill-item">
+                                <div class="skill-info">
+                                    <span class="skill-name">React / Next.js</span>
+                                    <span class="skill-percent">90%</span>
+                                </div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" data-progress="90"></div>
+                                </div>
+                            </div>
+
+                            <div class="skill-item">
+                                <div class="skill-info">
+                                    <span class="skill-name">TypeScript</span>
+                                    <span class="skill-percent">85%</span>
+                                </div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" data-progress="85"></div>
+                                </div>
+                            </div>
+
+                            <div class="skill-item">
+                                <div class="skill-info">
+                                    <span class="skill-name">Node.js / NestJS</span>
+                                    <span class="skill-percent">80%</span>
+                                </div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" data-progress="80"></div>
+                                </div>
+                            </div>
+
+                            <div class="skill-item">
+                                <div class="skill-info">
+                                    <span class="skill-name">PostgreSQL / MongoDB</span>
+                                    <span class="skill-percent">75%</span>
+                                </div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" data-progress="75"></div>
+                                </div>
+                            </div>
+
+                            <div class="skill-item">
+                                <div class="skill-info">
+                                    <span class="skill-name">Docker / DevOps</span>
+                                    <span class="skill-percent">70%</span>
+                                </div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" data-progress="70"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tech Stack Card -->
+                    <div class="glass-card tech-card">
+                        <div class="card-header">
+                            <i class="fas fa-code"></i>
+                            <h2>Tech Stack</h2>
+                        </div>
+
+                        <div class="tech-categories">
+                            <div class="tech-category">
+                                <h3>Frontend</h3>
+                                <div class="tech-icons">
+                                    <div class="tech-icon" title="React">
+                                        <i class="fab fa-react"></i>
+                                    </div>
+                                    <div class="tech-icon" title="Next.js">
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js">
+                                    </div>
+                                    <div class="tech-icon" title="TypeScript">
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript">
+                                    </div>
+                                    <div class="tech-icon" title="Tailwind">
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="tech-category">
+                                <h3>Backend</h3>
+                                <div class="tech-icons">
+                                    <div class="tech-icon" title="Node.js">
+                                        <i class="fab fa-node-js"></i>
+                                    </div>
+                                    <div class="tech-icon" title="NestJS">
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS">
+                                    </div>
+                                    <div class="tech-icon" title="Express">
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" class="invert">
+                                    </div>
+                                    <div class="tech-icon" title="GraphQL">
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="tech-category">
+                                <h3>Database</h3>
+                                <div class="tech-icons">
+                                    <div class="tech-icon" title="PostgreSQL">
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
+                                    </div>
+                                    <div class="tech-icon" title="MongoDB">
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB">
+                                    </div>
+                                    <div class="tech-icon" title="Redis">
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis">
+                                    </div>
+                                    <div class="tech-icon" title="Prisma">
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" class="invert">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="tech-category">
+                                <h3>DevOps</h3>
+                                <div class="tech-icons">
+                                    <div class="tech-icon" title="Docker">
+                                        <i class="fab fa-docker"></i>
+                                    </div>
+                                    <div class="tech-icon" title="Git">
+                                        <i class="fab fa-git-alt"></i>
+                                    </div>
+                                    <div class="tech-icon" title="Linux">
+                                        <i class="fab fa-linux"></i>
+                                    </div>
+                                    <div class="tech-icon" title="AWS">
+                                        <i class="fab fa-aws"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Stats Section -->
+        <section id="stats" class="section">
+            <div class="section-content">
+                <div class="glass-card stats-card">
+                    <div class="card-header">
+                        <i class="fas fa-chart-bar"></i>
+                        <h2>GitHub Analytics</h2>
+                    </div>
+
+                    <div class="stats-grid">
+                        <div class="stat-item">
+                            <img src="https://github-readme-stats.vercel.app/api?username=manguima&show_icons=true&hide_border=true&bg_color=00000000&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats">
+                        </div>
+
+                        <div class="stat-item">
+                            <img src="https://github-readme-streak-stats.herokuapp.com/?user=manguima&hide_border=true&background=00000000&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=ffffff&currStreakNum=ffffff&dates=888888" alt="GitHub Streak">
+                        </div>
+                    </div>
+
+                    <div class="snake-container">
+                        <h3><i class="fas fa-snake"></i> Contribution Snake</h3>
+                        <picture>
+                            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manguima/manguima/output/github-contribution-grid-snake-dark.svg">
+                            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manguima/manguima/output/github-contribution-grid-snake.svg">
+                            <img alt="snake animation" src="https://raw.githubusercontent.com/manguima/manguima/output/github-contribution-grid-snake.svg">
+                        </picture>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="section">
+            <div class="section-content">
+                <div class="glass-card contact-card">
+                    <div class="card-header">
+                        <i class="fas fa-envelope"></i>
+                        <h2>Let's Connect</h2>
+                    </div>
+
+                    <p class="contact-description">
+                        I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+                    </p>
+
+                    <div class="contact-links">
+                        <a href="https://linkedin.com/in/matheus-guima" class="contact-item" target="_blank">
+                            <div class="contact-icon">
+                                <i class="fab fa-linkedin-in"></i>
+                            </div>
+                            <div class="contact-info">
+                                <span class="contact-label">LinkedIn</span>
+                                <span class="contact-value">matheus-guima</span>
+                            </div>
+                        </a>
+
+                        <a href="https://github.com/manguima" class="contact-item" target="_blank">
+                            <div class="contact-icon">
+                                <i class="fab fa-github"></i>
+                            </div>
+                            <div class="contact-info">
+                                <span class="contact-label">GitHub</span>
+                                <span class="contact-value">manguima</span>
+                            </div>
+                        </a>
+
+                        <a href="mailto:matheus.gui.pgr@gmail.com" class="contact-item">
+                            <div class="contact-icon">
+                                <i class="fas fa-envelope"></i>
+                            </div>
+                            <div class="contact-info">
+                                <span class="contact-label">Email</span>
+                                <span class="contact-value">matheus.gui.pgr@gmail.com</span>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="contact-quote">
+                        <i class="fas fa-quote-left"></i>
+                        <p>"Clean code always looks like it was written by someone who cares."</p>
+                        <span>— Robert C. Martin</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Page Indicator -->
+    <div class="page-indicator">
+        <span class="current-page">01</span>
+        <span class="separator">/</span>
+        <span class="total-pages">05</span>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
